@@ -2,6 +2,7 @@
 # 💻 Tool: Genially 😉
 ![images](https://github.com/hannah416/G3/assets/162323285/dcd82411-1a59-4007-b9f6-7f5588fb746e)
 
+"Genially" Introduction Video:
 https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu/wish/2954887621
 
 
