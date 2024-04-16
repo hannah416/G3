@@ -1,11 +1,25 @@
 # G3
 # 💻 Tool: Genially 😉
 https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu/wish/2954887621 
-
+ ![image] 
 ## 🔹1. About "Genially"
-   ### purpose:
+   #### purpose:
 to engage students in dynamic and immersive learning experiences that enhance language acquisition and comprehension. 
-   ![image] 
+
+#### 1. Easy content creation
+- drag-and-drop
+
+#### 2. Integration of multimedia elements 
+- images, videos, audio clips, and animations
+
+#### 3. Interactive features 
+- clickable buttons, pop-up windows, quizzes, and games
+
+#### 4. Collaboration tools 
+- real-time editing and sharing of projects
+
+#### 5. Customizable templates 
+- design options for personalization 
 ## 🔹Functions
   * Facilitates the creation of unique stories to make storytelling accessible and enjoyable for users of all skill levels.                                                               
 
