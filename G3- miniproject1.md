@@ -40,7 +40,7 @@ to engage students in dynamic and immersive learning experiences that enhance la
 “Solar System-Eight Spinning Planets”
 
 
-## 🔹 Step ① The teacher shows the presentation 
+## 🔹 Step ① The teacher shows the presentation. 
 
 Class material using 'presentation template' in Genially:
 https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-planets-presentation 
@@ -56,14 +56,14 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
   
 ## 🔹 Step ② In the next class, after a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project.
 
-- Each group of 4 students will discuss which planet was most interesting
-- The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters
-- The teacher explains to all the students to try to use the “poster” template of Genially to be familiar with before the next class
+- Each group of 4 students will discuss which planet was most interesting.
+- The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters.
+- The teacher explains to all the students to try to use the “poster” template of Genially to be familiar with before the next class.
 
 -> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
 
 
-👏 **The poster that students made through Genially in class using their devices** 👏
+👏 **The poster that students made in class through Genially using their devices** 👏
 
 ![KakaoTalk_Photo_2024-04-16-23-28-25 001](https://github.com/hannah416/G3/assets/162323285/ef367338-0928-4a88-af23-ff4d5137897a)
 ![KakaoTalk_Photo_2024-04-16-23-28-25 002](https://github.com/hannah416/G3/assets/162323285/e7abae8b-d244-4297-aea6-ff854381eac2)
