@@ -34,7 +34,10 @@ to engage students in dynamic and immersive learning experiences that enhance la
 - 5th~6th graders
 - Intermediate-Low level
 
-  
+### Lesson Topic in the previous class:
+
+“Solar System-Eight Spinning Planets”
+
 
 ## 🔹 Step ① The teacher shows the presentation 
 
@@ -49,8 +52,8 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 
 
 
-
-## 🔹 Step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project 
+  
+## 🔹 Step ② In the next class, after a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project 
 (Not using Genially, just in class..
 
 - Each group of 4 students will discuss which planet was most interesting
@@ -59,7 +62,8 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 
 -> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
 
-**The poster that students made**
+
+👏 **The poster that students made in class using their devices** 👏
 
 ![KakaoTalk_Photo_2024-04-16-23-28-25 001](https://github.com/hannah416/G3/assets/162323285/ef367338-0928-4a88-af23-ff4d5137897a)
 ![KakaoTalk_Photo_2024-04-16-23-28-25 002](https://github.com/hannah416/G3/assets/162323285/e7abae8b-d244-4297-aea6-ff854381eac2)
@@ -107,28 +111,24 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 
 ## 🔹 5. "Genially" in different learning styles or levels
 
-① “Genially” for elementary school learners at their Intermediate-Mid level: 
+### **① “Genially” for elementary school learners at their Intermediate-Mid level**
 
 For intermedite-level elementary school learners who prefer organized and visually appealing information.
 
 For example, 
 in an English language lesson about vocabulary, we can use a Genially "infographic".
 
-## 🔹👍 Advantages/Benefits:
-1. Creativity and Engagement
-2. Scaffolding for Creative Writing
-3. Enhanced Engagement and Motivation
-4. Gradual Increase in Language Competency
-   
-## 🔹👎 Disadvantages/Limitations:
-1. Delayed Clarification of New Vocabulary
-2. Creative Restrictions
-3. Learning Curve
 
-## 🔹Further Directions
-1. Providing Access to Online Dictionaries for Efficient Vocabulary Understanding
-  * Providing students with access to online dictionaries: Facilitating immediate clarification of new vocabulary for overcoming delayed understanding.
-2. Encouraging Creative Freedom
-  * Encouraging creative freedom beyond AI suggestions: Mitigating creative restrictions to foster creativity.
-3. Integrating Simple Introductory Sessions on AI Tool Usage
-  * Integrating simple introductory sessions on using the AI tool: Easing the initial learning curve and promoting deeper engagement and critical thinking.
+### **② “Genially” for preschool young learners learning phonics**
+
+Teachers can create an interactive alphabet adventure using **Genially 'presentation template'** containing visuals, illustrations and audio recordings.
+
+### **③ “Genially” for novice-level adult learners in a speaking class**
+
+Teachers can create the conversation simulation activity using **Genially 'interactive story template'** including simulated real-life scenarios.
+
+### **④ “Genially” as a formative Assessment for high graders of an elementary school** 
+
+Teachers can assess students' understanding and progress through **Genially 'interactive quizzes, polls, or surveys'**. 
+
+
