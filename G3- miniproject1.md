@@ -60,7 +60,7 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 - The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters.
 - The teacher explains to all the students to try to use the “poster” template of Genially to be familiar with before the next class.
 
--> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
+-> This Poster Day project fosters **communication, collaboration, creativity, and critical thinking skills**, not focusing on the perfection of each work of the posters.
 
 
 👏 **The poster that students made in class through Genially using their devices** 👏
@@ -123,7 +123,7 @@ For intermedite-level elementary school learners who prefer organized and visual
 For example, 
 in an English language lesson about vocabulary, we can use a Genially "infographic".
 
-**<infographic template>**
+#### 👉 **Infographic template**
 ![KakaoTalk_Photo_2024-04-16-23-54-39 001](https://github.com/hannah416/G3/assets/162323285/bcebf60a-74af-4346-ad12-0d494983eb43)
 
 
@@ -131,18 +131,24 @@ in an English language lesson about vocabulary, we can use a Genially "infograph
 
 Teachers can create an interactive alphabet adventure using **Genially 'presentation template'** containing visuals, illustrations and audio recordings.
 
+#### 👉 **Learning phonics presentation template**
+![KakaoTalk_Photo_2024-04-17-00-13-40](https://github.com/hannah416/G3/assets/162323285/93dbc230-50f8-49d7-b917-1020df22849d)
 
 ### **③ “Genially” for novice-level adult learners in a speaking class**
 
 Teachers can create the conversation simulation activity using **Genially 'interactive story template'** including simulated real-life scenarios.
 
-**<interactive story template>**
+#### 👉 **Interactive story template**
 ![KakaoTalk_Photo_2024-04-16-23-54-39 002](https://github.com/hannah416/G3/assets/162323285/142d276b-b5bd-449f-95b7-3b5aa2cee203)
 
 
-### **④ “Genially” as a formative Assessment for high graders of an elementary school** 
+### **④ “Genially” as a formative assessment for high graders of an elementary school** 
 
-Teachers can assess students' understanding and progress through **Genially 'interactive quizzes, polls, or surveys'**. 
+Teachers can assess students' understanding and progress through **Genially 'interactive quizzes, games, polls, or surveys'**. 
 
-**<polls template>**
+#### 👉 **Polls template**
 ![KakaoTalk_Photo_2024-04-16-23-57-07](https://github.com/hannah416/G3/assets/162323285/819e3eb2-1162-4b63-b27f-774af0020a4a)
+
+
+#### 👉 **Gamification template**
+<img width="1274" alt="gamification" src="https://github.com/hannah416/G3/assets/162323285/46a0e5d3-6160-4f89-868c-87b09871b7b1">
