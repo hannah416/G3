@@ -54,7 +54,7 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 
 
   
-## 🔹 Step ② In the next class, after a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project.
+## 🔹 Step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project in the next class.
 
 - Each group of 4 students will discuss which planet was most interesting.
 - The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters.
