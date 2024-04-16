@@ -32,13 +32,21 @@ to engage students in dynamic and immersive learning experiences that enhance la
 - 5th~6th graders
 - Intermediate-Low level
 
-## 🔹 step ① The teacher shows the presentation (One of the Genially's templates - presentation template) 
+  
+
+## 🔹 Step ① The teacher shows the presentation 
+(Use one of the Genially's templates - presentation template) 
 
 ![presentation1](https://github.com/hannah416/G3/assets/162323285/20a9e400-6f17-4dd7-8817-ac64f79cd6a5)
+
 ![presentation2](https://github.com/hannah416/G3/assets/162323285/fcbedf60-4fb7-4a9b-9acf-9e80618ebefb)
 
 
-## 🔹 step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project
+
+
+
+## 🔹 Step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project 
+(Not using Genially, just in class..
 
 - Each group of 4 students will discuss which planet was most interesting
 - The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters
@@ -49,20 +57,38 @@ to engage students in dynamic and immersive learning experiences that enhance la
 
 
 
-## 🔹 step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz
+
+## 🔹 Step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz 
+(Use one of the Genially's templates - quiz template) 
+
+
+![KakaoTalk_Photo_2024-04-16-23-07-57 002](https://github.com/hannah416/G3/assets/162323285/0570fe70-0846-4d60-baa9-b8927d6ea36b)
+
+
+![KakaoTalk_Photo_2024-04-16-23-07-57 001](https://github.com/hannah416/G3/assets/162323285/b26031fc-3f59-48b5-b366-5463f4919631)
+
+
+![KakaoTalk_Photo_2024-04-16-23-07-57 003](https://github.com/hannah416/G3/assets/162323285/bbe4eea7-eb52-4d08-9df0-95ca288df2f3)
 
 
 
-## 🔹3. Unique advantages of "Genially"
-↗️ Enhance **creativity** and imaginative **storytelling skills** in English.
+## 🔹3. Advantages of "Genially"
 
-↗️ Develop **digital literacy** by integrating AI technology into story creation.
+↗️ ① **Versatility** in Content Creation
+- to create interactive infographics, timelines, quizzes, and games
 
-↗️ Improve **understanding of narrative structures, vocabulary, and grammar**.
 
-↗️ Boost **presentation skills** and build **confidence** in English speaking.
+↗️ ② Rich **Multimedia** Integration
+- to include images, videos, audio clips, and animations
 
-## 🔹Implementation Steps:
+↗️ ③ **Real-time** Collaboration & Feedback
+- work on the same project simultaneously
+
+↗️ ④ **Accessibility** and **Diversity**
+
+
+
+## 🔹4. Challenges of "Genially"
 
 1. Introduction to 'We Made a Story'
 2. Brainstorming Session in groups
