@@ -72,11 +72,10 @@ to engage students in dynamic and immersive learning experiences that enhance la
 
 
 
-## 🔹3. Advantages of "Genially"
+## 🔹3. 👍 Advantages of "Genially"
 
 ↗️ ① **Versatility** in Content Creation
 - to create interactive infographics, timelines, quizzes, and games
-
 
 ↗️ ② Rich **Multimedia** Integration
 - to include images, videos, audio clips, and animations
@@ -88,34 +87,22 @@ to engage students in dynamic and immersive learning experiences that enhance la
 
 
 
-## 🔹4. Challenges of "Genially"
+## 🔹4. 👎 Challenges of "Genially"
 
-1. Introduction to 'We Made a Story'
-2. Brainstorming Session in groups
-3. Creating Stories with 'We Made a Story ' using the given prompt.
-   ['We made a story' LINK](https://www.wemadeastory.com/login)
-
-**Prompt: Fu Bao, the friendly panda from Everland, was about to go on a big adventure to China, where pandas come from. She was very excited. We both got on a big airplane that would take us there. Fu Bao had her own seat next to me and looked out the window, curious about the sky. The plane ride was calm and nice.**
-
-![image](https://github.com/verastudio/G2/assets/163081348/e9405d7a-0143-4a4f-8c11-c0d76de967bf)
+↗️ ① **Limited** Customization Options in **Free Version**
+↗️ ② Digital **Distraction** and Overwhelm
+↗️ ③ **Limited Access** to Technology
 
 
-4. Editing and Refining.
 
-![image](https://github.com/verastudio/G2/assets/163081348/0b2817bc-a1bc-4ae7-81cf-104f2d8e4548)
+## 🔹 5. "Genially" in different learning styles or levels
 
-![image](https://github.com/verastudio/G2/assets/163081348/21981c4b-67a7-4598-ae97-72accdb67240)
+① “Genially” for elementary school learners at their Intermediate-Mid level: 
 
-![image](https://github.com/verastudio/G2/assets/163081348/b38bfbff-7ba5-43e4-b4e8-dae08eee8cd9)
+For intermedite-level elementary school learners who prefer organized and visually appealing information.
 
-
-   
-5. Presentation and Feedback
-   
-![ezgif com-video-to-gif-converter (11)](https://github.com/verastudio/G2/assets/163081348/772cdbbc-1c63-4e31-b747-ea06a4677bad)
-
-
-# 🔹👍 Advantages/Benefits: & 👎 Disadvantages/Limitations:
+For example, 
+in an English language lesson about vocabulary, we can use a Genially "infographic".
 
 ## 🔹👍 Advantages/Benefits:
 1. Creativity and Engagement
