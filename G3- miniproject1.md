@@ -32,9 +32,10 @@ to engage students in dynamic and immersive learning experiences that enhance la
 - 5th~6th graders
 - Intermediate-Low level
 
-## 🔹 step ① The teacher shows the presentation
+## 🔹 step ① The teacher shows the presentation (One of the Genially's templates - presentation template) 
 
-
+![presentation1](https://github.com/hannah416/G3/assets/162323285/20a9e400-6f17-4dd7-8817-ac64f79cd6a5)
+![presentation2](https://github.com/hannah416/G3/assets/162323285/fcbedf60-4fb7-4a9b-9acf-9e80618ebefb)
 
 
 ## 🔹 step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project
