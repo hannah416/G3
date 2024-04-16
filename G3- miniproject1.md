@@ -53,8 +53,7 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 
 
   
-## 🔹 Step ② In the next class, after a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project 
-(Not using Genially, just in class..
+## 🔹 Step ② In the next class, after a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project.
 
 - Each group of 4 students will discuss which planet was most interesting
 - The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters
@@ -63,14 +62,14 @@ https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-plan
 -> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
 
 
-👏 **The poster that students made in class using their devices** 👏
+👏 **The poster that students made through Genially in class using their devices** 👏
 
 ![KakaoTalk_Photo_2024-04-16-23-28-25 001](https://github.com/hannah416/G3/assets/162323285/ef367338-0928-4a88-af23-ff4d5137897a)
 ![KakaoTalk_Photo_2024-04-16-23-28-25 002](https://github.com/hannah416/G3/assets/162323285/e7abae8b-d244-4297-aea6-ff854381eac2)
 
 
 
-## 🔹 Step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz 
+## 🔹 Step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz. 
 
 Class material using 'quiz template' in Genially:
 https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinning-planets-quizzes 
@@ -83,6 +82,7 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 
 
 ![KakaoTalk_Photo_2024-04-16-23-07-57 003](https://github.com/hannah416/G3/assets/162323285/bbe4eea7-eb52-4d08-9df0-95ca288df2f3)
+
 
 
 
@@ -101,11 +101,15 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 
 
 
+
 ## 🔹4. 👎 Challenges of "Genially"
 
 ↗️ ① **Limited** Customization Options in **Free Version**
+
 ↗️ ② Digital **Distraction** and Overwhelm
+
 ↗️ ③ **Limited Access** to Technology
+
 
 
 
@@ -118,17 +122,26 @@ For intermedite-level elementary school learners who prefer organized and visual
 For example, 
 in an English language lesson about vocabulary, we can use a Genially "infographic".
 
+**<infographic template>**
+![KakaoTalk_Photo_2024-04-16-23-54-39 001](https://github.com/hannah416/G3/assets/162323285/bcebf60a-74af-4346-ad12-0d494983eb43)
+
 
 ### **② “Genially” for preschool young learners learning phonics**
 
 Teachers can create an interactive alphabet adventure using **Genially 'presentation template'** containing visuals, illustrations and audio recordings.
 
+
 ### **③ “Genially” for novice-level adult learners in a speaking class**
 
 Teachers can create the conversation simulation activity using **Genially 'interactive story template'** including simulated real-life scenarios.
+
+**<interactive story template>**
+![KakaoTalk_Photo_2024-04-16-23-54-39 002](https://github.com/hannah416/G3/assets/162323285/142d276b-b5bd-449f-95b7-3b5aa2cee203)
+
 
 ### **④ “Genially” as a formative Assessment for high graders of an elementary school** 
 
 Teachers can assess students' understanding and progress through **Genially 'interactive quizzes, polls, or surveys'**. 
 
-
+**<polls template>**
+![KakaoTalk_Photo_2024-04-16-23-57-07](https://github.com/hannah416/G3/assets/162323285/819e3eb2-1162-4b63-b27f-774af0020a4a)
