@@ -25,8 +25,10 @@ to engage students in dynamic and immersive learning experiences that enhance la
 #### 5. Customizable templates 
 - design options for personalization
 
+
   
-## 🔹2. Classroom Activity: Using "Genially"
+## 🔹2. Classroom Activity: Using "Genially" 
+
   ### Target student :  
 
 - 5th~6th graders
@@ -35,7 +37,10 @@ to engage students in dynamic and immersive learning experiences that enhance la
   
 
 ## 🔹 Step ① The teacher shows the presentation 
-(Use one of the Genially's templates - presentation template) 
+
+Class material using 'presentation template' in Genially:
+https://view.genial.ly/629263ae019e2000111e0b99/presentation-eight-spinning-planets-presentation 
+
 
 ![presentation1](https://github.com/hannah416/G3/assets/162323285/20a9e400-6f17-4dd7-8817-ac64f79cd6a5)
 
@@ -54,12 +59,17 @@ to engage students in dynamic and immersive learning experiences that enhance la
 
 -> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
 
+**The poster that students made**
 
+![KakaoTalk_Photo_2024-04-16-23-28-25 001](https://github.com/hannah416/G3/assets/162323285/ef367338-0928-4a88-af23-ff4d5137897a)
+![KakaoTalk_Photo_2024-04-16-23-28-25 002](https://github.com/hannah416/G3/assets/162323285/e7abae8b-d244-4297-aea6-ff854381eac2)
 
 
 
 ## 🔹 Step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz 
-(Use one of the Genially's templates - quiz template) 
+
+Class material using 'quiz template' in Genially:
+https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinning-planets-quizzes 
 
 
 ![KakaoTalk_Photo_2024-04-16-23-07-57 002](https://github.com/hannah416/G3/assets/162323285/0570fe70-0846-4d60-baa9-b8927d6ea36b)
