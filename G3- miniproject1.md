@@ -1,7 +1,11 @@
 # G3
 # 💻 Tool: Genially 😉
-https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu/wish/2954887621 
- ![image] 
+![images](https://github.com/hannah416/G3/assets/162323285/dcd82411-1a59-4007-b9f6-7f5588fb746e)
+
+https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu/wish/2954887621
+
+
+
 ## 🔹1. About "Genially"
    #### purpose:
 to engage students in dynamic and immersive learning experiences that enhance language acquisition and comprehension. 
@@ -19,20 +23,36 @@ to engage students in dynamic and immersive learning experiences that enhance la
 - real-time editing and sharing of projects
 
 #### 5. Customizable templates 
-- design options for personalization 
-## 🔹Functions
-  * Facilitates the creation of unique stories to make storytelling accessible and enjoyable for users of all skill levels.                                                               
+- design options for personalization
 
-## 🔹Classroom Activity: AI-Assisted Story Creation and Presentation
+  
+## 🔹2. Classroom Activity: Using "Genially"
+  ### Target student :  
+
+- 5th~6th graders
+- Intermediate-Low level
+
+## 🔹 step ① The teacher shows the presentation
 
 
-## 🔹Topic: Fu Bao🐼, What will happen after Fu Bao moves into China?
-![image](https://github.com/verastudio/G2/assets/163081348/b23b7caf-9cf4-44a7-bebb-8deefa0fed08)
 
 
-## 🔹Target Learner: 3rd-grade middle school students at an intermediate English level
+## 🔹 step ② After a quick review of the presentation, the teacher makes the students sit in groups of 4 students and explains about the Poster Day project
 
-## 🔹Learning Objectives
+- Each group of 4 students will discuss which planet was most interesting
+- The teacher helps the groups choose 1 out of 8 planets not to be overlapped and tells the students to brainstorm for their posters
+- The teacher explains to all the students to try to use the “poster” template of Genially to be familiar with before the next class
+
+-> This Poster Day project fosters communication, collaboration, creativity, and critical thinking skills, not focusing on the perfection of each work of the posters.
+
+
+
+
+## 🔹 step ③ Lastly, the teacher wraps up the lesson on the “Solar System” with the interactive quiz
+
+
+
+## 🔹3. Unique advantages of "Genially"
 ↗️ Enhance **creativity** and imaginative **storytelling skills** in English.
 
 ↗️ Develop **digital literacy** by integrating AI technology into story creation.
