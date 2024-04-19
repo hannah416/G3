@@ -97,10 +97,10 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 - to include images, videos, audio clips, and animations
 
 ↗️ ③ **Real-time** Collaboration & Feedback
-- work on the same project simultaneously
+- to work on the same project simultaneously
 
 ↗️ ④ **Accessibility** and **Diversity**
-
+- to be reachable to learners with some requirements such as visual impairments
 
 
 
