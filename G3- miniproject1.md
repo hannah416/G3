@@ -79,10 +79,11 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 ![KakaoTalk_Photo_2024-04-16-23-07-57 002](https://github.com/hannah416/G3/assets/162323285/0570fe70-0846-4d60-baa9-b8927d6ea36b)
 
 
+![KakaoTalk_Photo_2024-04-16-23-07-57 003](https://github.com/hannah416/G3/assets/162323285/bbe4eea7-eb52-4d08-9df0-95ca288df2f3)
+
+
 ![KakaoTalk_Photo_2024-04-16-23-07-57 001](https://github.com/hannah416/G3/assets/162323285/b26031fc-3f59-48b5-b366-5463f4919631)
 
-
-![KakaoTalk_Photo_2024-04-16-23-07-57 003](https://github.com/hannah416/G3/assets/162323285/bbe4eea7-eb52-4d08-9df0-95ca288df2f3)
 
 
 
