@@ -107,12 +107,15 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 ## 🔹4. 👎 Challenges of "Genially" and Solutions 
 
 ↗️ ① **Limited** Customization Options in **Free Version**
+
 -> Teachers can combine multiple templates or customize pre-made templates!
 
 ↗️ ② Digital **Distraction** and Overwhelm
+
 -> Teachers can provide clear instructions to students and monitor them!
 
 ↗️ ③ **Limited Access** to Technology
+
 -> Teachers can provide offline access options such as downloadable PDFs!
 
 
