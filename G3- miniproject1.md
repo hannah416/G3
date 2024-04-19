@@ -101,6 +101,8 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 
 ↗️ ④ **Accessibility** and **Diversity**
 - to be reachable to learners with some requirements such as visual impairments
+  
+
 
 
 
@@ -117,6 +119,7 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 ↗️ ③ **Limited Access** to Technology
 
 -> Teachers can provide offline access options such as downloadable PDFs!
+
 
 
 
