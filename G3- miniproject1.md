@@ -122,7 +122,7 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 For intermedite-level elementary school learners who prefer organized and visually appealing information.
 
 For example, 
-in an English language lesson about vocabulary, we can use a Genially "infographic".
+in an English language lesson about vocabulary, we can use a Genially **Genially 'infographic template'**.
 
 #### 👉 **Infographic template**
 ![KakaoTalk_Photo_2024-04-16-23-54-39 001](https://github.com/hannah416/G3/assets/162323285/bcebf60a-74af-4346-ad12-0d494983eb43)
