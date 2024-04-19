@@ -122,7 +122,7 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 For intermedite-level elementary school learners who prefer organized and visually appealing information.
 
 For example, 
-in an English language lesson about vocabulary, we can use a Genially **Genially 'infographic template'**.
+in an English language lesson about vocabulary, we can use a **Genially 'infographic template'**.
 
 #### 👉 **Infographic template**
 ![KakaoTalk_Photo_2024-04-16-23-54-39 001](https://github.com/hannah416/G3/assets/162323285/bcebf60a-74af-4346-ad12-0d494983eb43)
@@ -130,14 +130,14 @@ in an English language lesson about vocabulary, we can use a Genially **Genially
 
 ### **② “Genially” for preschool young learners learning phonics**
 
-Teachers can create an interactive alphabet adventure using **Genially 'presentation template'** containing visuals, illustrations and audio recordings.
+Teachers can create an interactive alphabet adventure using a **Genially 'presentation template'** containing visuals, illustrations and audio recordings.
 
 #### 👉 **Learning phonics presentation template**
 ![KakaoTalk_Photo_2024-04-17-00-13-40](https://github.com/hannah416/G3/assets/162323285/93dbc230-50f8-49d7-b917-1020df22849d)
 
 ### **③ “Genially” for novice-level adult learners in a speaking class**
 
-Teachers can create the conversation simulation activity using **Genially 'interactive story template'** including simulated real-life scenarios.
+Teachers can create the conversation simulation activity using a **Genially 'interactive story template'** including simulated real-life scenarios.
 
 #### 👉 **Interactive story template**
 ![KakaoTalk_Photo_2024-04-16-23-54-39 002](https://github.com/hannah416/G3/assets/162323285/142d276b-b5bd-449f-95b7-3b5aa2cee203)
