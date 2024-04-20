@@ -112,7 +112,7 @@ https://view.genial.ly/62923dc99d21860018cf1938/interactive-content-eight-spinni
 
 ↗️ ② Digital **Distraction** and Overwhelm
 
--> Teachers can provide clear instructions to students and monitor them!
+-> Teachers can give clear instructions to students and monitor them!
 
 ↗️ ③ **Limited Access** to Technology
 
